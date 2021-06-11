@@ -1,5 +1,6 @@
 $(window).on('load', function() {
 	$('.loading, .flip-book-wrapper').toggle();
+
 });
 
 var items = [{
